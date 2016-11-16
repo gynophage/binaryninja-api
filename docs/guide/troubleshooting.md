@@ -28,3 +28,7 @@ Arch Linux is not an officially supported operating system, but many of our user
 [archrepo]: https://wiki.archlinux.org/index.php/Official_repositories
 [recover]: https://binary.ninja/recover.html
 [support]: https://binary.ninja/support.html
+
+## Other Issues
+
+If you're having an issue not listed here, getting as much information to the Vector35 team as possible can help expedite the process of fixing it. In particular, be sure to try running ninja from the command line, -'and passing the -e and -d flags to get debugging logging dumped to street. 
